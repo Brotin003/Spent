@@ -64,6 +64,6 @@ Spent is a one-page dashboard. There is beauty and functionality in simplicity, 
 
 ## For Version 2.0
 
-- **More chart control:** Ability to customize the categories and timeframes the charts display
-- **Badges:** Badges for certain milestones, such as staying under budget for a given period of time
-- **Password hashing:** Passwords will be hashed before being saved to the database
+- **More chart control:** Ability to customize the categories and timeframes the charts display.
+- **Badges:** Badges for certain milestones, such as staying under budget for a given period of time.
+- **Password hashing:** Passwords will be hashed before being saved to the database.
